@@ -130,4 +130,4 @@ def main(argv):
     display(confusion_matrix, categories)    
     
 if __name__ == '__main__':
-tf.app.run(main)
+    tf.app.run(main)
