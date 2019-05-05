@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>2.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images/train/2.jpg</path>
+	<filename>71.jpg</filename>
+	<path>/home/laura/Desktop/ING2030/data/images/train/71.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,99 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>283</xmin>
-			<ymin>250</ymin>
-			<xmax>374</xmax>
-			<ymax>325</ymax>
+			<xmin>103</xmin>
+			<ymin>179</ymin>
+			<xmax>227</xmax>
+			<ymax>307</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>417</xmin>
-			<ymin>256</ymin>
-			<xmax>511</xmax>
-			<ymax>329</ymax>
+			<xmin>271</xmin>
+			<ymin>198</ymin>
+			<xmax>373</xmax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>432</xmin>
-			<ymin>366</ymin>
-			<xmax>538</xmax>
-			<ymax>462</ymax>
+			<xmin>407</xmin>
+			<ymin>213</ymin>
+			<xmax>516</xmax>
+			<ymax>314</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>578</xmin>
-			<ymin>361</ymin>
-			<xmax>685</xmax>
-			<ymax>463</ymax>
+			<xmin>543</xmin>
+			<ymin>224</ymin>
+			<xmax>643</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>353</xmin>
-			<ymin>207</ymin>
-			<xmax>434</xmax>
-			<ymax>270</ymax>
+			<xmin>91</xmin>
+			<ymin>343</ymin>
+			<xmax>221</xmax>
+			<ymax>457</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>358</xmin>
-			<ymin>307</ymin>
-			<xmax>453</xmax>
-			<ymax>389</ymax>
+			<xmin>261</xmin>
+			<ymin>345</ymin>
+			<xmax>376</xmax>
+			<ymax>455</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>493</xmin>
-			<ymin>307</ymin>
-			<xmax>591</xmax>
-			<ymax>387</ymax>
+			<xmin>410</xmin>
+			<ymin>351</ymin>
+			<xmax>513</xmax>
+			<ymax>465</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>517</xmin>
-			<ymin>428</ymin>
-			<xmax>631</xmax>
-			<ymax>546</ymax>
+			<xmin>545</xmin>
+			<ymin>351</ymin>
+			<xmax>648</xmax>
+			<ymax>454</ymax>
 		</bndbox>
 	</object>
 </annotation>
