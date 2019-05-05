@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>dog</name>
+		<name>clean</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>dog</name>
+		<name>clean</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>243</xmin>
-			<ymin>109</ymin>
+			<ymin>107</ymin>
 			<xmax>384</xmax>
-			<ymax>232</ymax>
+			<ymax>230</ymax>
 		</bndbox>
 	</object>
 </annotation>
