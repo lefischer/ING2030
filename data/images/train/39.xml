@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>39.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images/train/39.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images2/train/39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>semi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -81,6 +81,30 @@
 			<ymin>174</ymin>
 			<xmax>374</xmax>
 			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>semi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>172</ymin>
+			<xmax>209</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>semi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>380</ymin>
+			<xmax>542</xmax>
+			<ymax>454</ymax>
 		</bndbox>
 	</object>
 </annotation>

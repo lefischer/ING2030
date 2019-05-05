@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>47.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images2/train/47.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images/train/47.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -42,8 +42,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>77</xmin>
-			<ymin>292</ymin>
-			<xmax>209</xmax>
+			<ymin>304</ymin>
+			<xmax>208</xmax>
 			<ymax>413</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>611</xmin>
-			<ymin>299</ymin>
-			<xmax>749</xmax>
-			<ymax>422</ymax>
+			<xmin>621</xmin>
+			<ymin>304</ymin>
+			<xmax>742</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>

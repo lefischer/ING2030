@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>13.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images/test/13.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images2/test/13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>clean</name>
+		<name>semi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

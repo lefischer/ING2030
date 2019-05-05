@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>28.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images2/test/28.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images/test/28.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>semi</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>semi</name>
+		<name>clean</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -93,18 +93,6 @@
 			<ymin>378</ymin>
 			<xmax>402</xmax>
 			<ymax>453</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>semi</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>453</xmin>
-			<ymin>288</ymin>
-			<xmax>573</xmax>
-			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

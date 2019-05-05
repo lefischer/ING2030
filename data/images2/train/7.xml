@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>7.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images2/train/7.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images/train/7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>semi</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>semi</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -65,14 +65,14 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>60</xmin>
-			<ymin>305</ymin>
-			<xmax>202</xmax>
-			<ymax>408</ymax>
+			<xmin>62</xmin>
+			<ymin>304</ymin>
+			<xmax>204</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>semi</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -89,9 +89,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>408</xmin>
+			<xmin>409</xmin>
 			<ymin>150</ymin>
-			<xmax>530</xmax>
+			<xmax>531</xmax>
 			<ymax>250</ymax>
 		</bndbox>
 	</object>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>594</xmin>
-			<ymin>141</ymin>
+			<ymin>142</ymin>
 			<xmax>745</xmax>
-			<ymax>244</ymax>
+			<ymax>245</ymax>
 		</bndbox>
 	</object>
 </annotation>

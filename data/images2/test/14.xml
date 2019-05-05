@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>14.jpg</filename>
-	<path>/home/laura/Desktop/ING2030/data/images2/test/14.jpg</path>
+	<path>/home/laura/Desktop/ING2030/data/images/test/14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,42 +69,6 @@
 			<ymin>387</ymin>
 			<xmax>626</xmax>
 			<ymax>469</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>clean</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>118</xmin>
-			<ymin>378</ymin>
-			<xmax>225</xmax>
-			<ymax>459</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>clean</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>244</xmin>
-			<ymin>374</ymin>
-			<xmax>351</xmax>
-			<ymax>455</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>clean</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>374</xmin>
-			<ymin>260</ymin>
-			<xmax>481</xmax>
-			<ymax>341</ymax>
 		</bndbox>
 	</object>
 </annotation>
