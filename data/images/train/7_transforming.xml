@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Primera Mitad</folder>
+	<filename>7_transforming.jpg</filename>
+	<path>C:\Users\Felipe\Documents\Innovación\Primera Mitad\7_transforming.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>semi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>7</ymin>
+			<xmax>640</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>semi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>65</ymin>
+			<xmax>640</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>clean</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>214</ymin>
+			<xmax>640</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Primera Mitad</folder>
+	<filename>0_transforming.jpg</filename>
+	<path>C:\Users\Felipe\Documents\Innovación\Primera Mitad\0_transforming.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>68</ymin>
+			<xmax>400</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>245</ymin>
+			<xmax>404</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

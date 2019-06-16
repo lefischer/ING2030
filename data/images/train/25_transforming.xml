@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Primera Mitad</folder>
+	<filename>25_transforming.jpg</filename>
+	<path>C:\Users\Felipe\Documents\Innovación\Primera Mitad\25_transforming.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>2</ymin>
+			<xmax>640</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>143</ymin>
+			<xmax>640</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>252</ymin>
+			<xmax>494</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
