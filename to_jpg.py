@@ -14,17 +14,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "--raw-dir",
         help="Directory path to raw images.",
-        default="./data/raw",
+        default="./c/crop",
         type=str,
     )
     parser.add_argument(
         "--save-dir",
         help="Directory path to save resized images.",
-        default="./data/images",
+        default="./c/jpg",
         type=str,
     )
     parser.add_argument(
-        "--ext", help="Raw image files extension to resize.", default="jpg", type=str
+        "--ext", help="Raw image files extension to change.", default="png", type=str
     )
 
     args = parser.parse_args()
