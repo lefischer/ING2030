@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Primera Mitad</folder>
+	<folder>Finales</folder>
 	<filename>25_transforming.jpg</filename>
-	<path>C:\Users\Felipe\Documents\Innovación\Primera Mitad\25_transforming.jpg</path>
+	<path>C:\Users\Felipe\Documents\Innovación\Finales\25_transforming.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>360</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>dirty</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>83</xmin>
-			<ymin>2</ymin>
-			<xmax>640</xmax>
-			<ymax>95</ymax>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>1012</xmax>
+			<ymax>99</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,70 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
-			<ymin>143</ymin>
-			<xmax>640</xmax>
-			<ymax>260</ymax>
+			<xmin>1025</xmin>
+			<ymin>27</ymin>
+			<xmax>1280</xmax>
+			<ymax>100</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>dirty</name>
+		<name>clean</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>173</ymin>
+			<xmax>1280</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>clean</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>94</xmin>
-			<ymin>252</ymin>
-			<xmax>494</xmax>
-			<ymax>315</ymax>
+			<xmin>130</xmin>
+			<ymin>237</ymin>
+			<xmax>664</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>clean</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>334</ymin>
+			<xmax>1280</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>clean</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>559</ymin>
+			<xmax>415</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dirty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>563</ymin>
+			<xmax>1280</xmax>
+			<ymax>719</ymax>
 		</bndbox>
 	</object>
 </annotation>

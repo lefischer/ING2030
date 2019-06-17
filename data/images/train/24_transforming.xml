@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Primera Mitad</folder>
+	<folder>Finales</folder>
 	<filename>24_transforming.jpg</filename>
-	<path>C:\Users\Felipe\Documents\Innovación\Primera Mitad\24_transforming.jpg</path>
+	<path>C:\Users\Felipe\Documents\Innovación\Finales\24_transforming.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>360</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>85</xmin>
+			<xmin>6</xmin>
 			<ymin>1</ymin>
-			<xmax>324</xmax>
-			<ymax>100</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dirty</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>325</xmin>
-			<ymin>1</ymin>
-			<xmax>640</xmax>
-			<ymax>157</ymax>
+			<xmax>967</xmax>
+			<ymax>140</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>98</ymin>
-			<xmax>183</xmax>
-			<ymax>154</ymax>
+			<xmin>5</xmin>
+			<ymin>223</ymin>
+			<xmax>982</xmax>
+			<ymax>384</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>semi</name>
+		<name>dirty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>103</ymin>
-			<xmax>318</xmax>
-			<ymax>157</ymax>
+			<xmin>440</xmin>
+			<ymin>505</ymin>
+			<xmax>827</xmax>
+			<ymax>673</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>71</xmin>
-			<ymin>159</ymin>
-			<xmax>640</xmax>
-			<ymax>331</ymax>
+			<xmin>824</xmin>
+			<ymin>588</ymin>
+			<xmax>1280</xmax>
+			<ymax>667</ymax>
 		</bndbox>
 	</object>
 </annotation>
